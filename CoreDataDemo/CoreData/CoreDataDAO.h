@@ -1,14 +1,11 @@
 //
 //  CoreDataDAO.h
-//  XYIOT
 //
-//  Created by stary on 2017/10/31.
-//  Copyright © 2017年 XYWL. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
 
-FOUNDATION_EXTERN NSString * const UserEntity;
+FOUNDATION_EXTERN NSString * const UserEntity;///< EntityName
 
 @interface CoreDataDAO : NSObject
 

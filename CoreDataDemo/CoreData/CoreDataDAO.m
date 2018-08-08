@@ -1,9 +1,6 @@
 //
 //  CoreDataDAO.m
-//  XYIOT
 //
-//  Created by stary on 2017/10/31.
-//  Copyright © 2017年 XYWL. All rights reserved.
 //
 
 #import "CoreDataDAO.h"

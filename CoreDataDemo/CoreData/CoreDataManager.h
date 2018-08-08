@@ -1,9 +1,6 @@
 //
-//  CoreDataTool.h
-//  Demo
+//  CoreDataManager.h
 //
-//  Created by bxd on 16/5/19.
-//  Copyright © 2016年 test. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

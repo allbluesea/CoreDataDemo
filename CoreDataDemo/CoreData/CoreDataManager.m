@@ -1,9 +1,6 @@
 //
-//  CoreDataTool.m
-//  Demo
+//  CoreDataManager.m
 //
-//  Created by bxd on 16/5/19.
-//  Copyright © 2016年 test. All rights reserved.
 //
 
 #import "CoreDataManager.h"
